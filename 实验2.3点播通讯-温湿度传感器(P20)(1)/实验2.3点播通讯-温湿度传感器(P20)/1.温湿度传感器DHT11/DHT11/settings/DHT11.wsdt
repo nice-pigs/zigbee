@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DHT11/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>130</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1033</ColumnWidth1><ColumnWidth2>275</ColumnWidth2><ColumnWidth3>68</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>24</ColumnWidth0><ColumnWidth1>1200</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20300-15000</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DHT11</ExpandedNode><ExpandedNode>DHT11/DHT11.C</ExpandedNode><ExpandedNode>DHT11/DHT11.C/Output</ExpandedNode><ExpandedNode>DHT11/Output</ExpandedNode><ExpandedNode>DHT11/UART.C</ExpandedNode><ExpandedNode>DHT11/main.c</ExpandedNode><ExpandedNode>DHT11/main.c/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-204-15581</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-30370-24504</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>940</SelStart><SelEnd>940</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\DHT11.C</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>2817</SelStart><SelEnd>2817</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>403</SelStart><SelEnd>403</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART.H</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>38</SelStart><SelEnd>38</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\DHT11.H</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>285</SelStart><SelEnd>285</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04a41578><key>iaridepm.enu1</key></Toolbar-04a41578></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>805</Bottom><Right>204</Right><x>-2</x><y>-2</y><xscreen>130</xscreen><yscreen>237</yscreen><sizeHorzCX>76157</sizeHorzCX><sizeHorzCY>242828</sizeHorzCY><sizeVertCX>120680</sizeVertCX><sizeVertCY>826844</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>126</Bottom><Right>1709</Right><x>-2</x><y>-2</y><xscreen>1711</xscreen><yscreen>128</yscreen><sizeHorzCX>1002343</sizeHorzCX><sizeHorzCY>131148</sizeHorzCY><sizeVertCX>76157</sizeVertCX><sizeVertCY>242828</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
